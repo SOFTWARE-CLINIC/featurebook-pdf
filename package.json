@@ -1,0 +1,33 @@
+{
+  "name": "featurebook-pdf",
+  "version": "1.0.0-alpha.1",
+  "description": "FeatureBook's PDF converter",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOFTWARE-CLINIC/featurebook-pdf.git"
+  },
+  "author": {
+    "name": "Daniel Pacak",
+    "email": "pacak.daniel@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bash-color": "0.0.3",
+    "featurebook-api": "git+https://github.com/SOFTWARE-CLINIC/featurebook-api.git",
+    "fs-extra": "0.28.0",
+    "lodash": "4.11.1",
+    "pdfkit": "0.7.2"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  }
+}
