@@ -1,6 +1,6 @@
 {
   "name": "featurebook-pdf",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "FeatureBook's PDF converter",
   "main": "index.js",
   "files": [
