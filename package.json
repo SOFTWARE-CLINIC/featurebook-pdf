@@ -1,6 +1,6 @@
 {
   "name": "featurebook-pdf",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "FeatureBook's PDF converter",
   "main": "index.js",
   "files": [
@@ -28,7 +28,7 @@
     "bash-color": "0.0.4",
     "featurebook-api": "1.0.0-alpha.2",
     "fs-extra": "0.30.0",
-    "lodash": "4.16.0",
+    "lodash": "4.16.1",
     "pdfkit": "0.8.0"
   },
   "devDependencies": {
