@@ -26,15 +26,15 @@
   "license": "MIT",
   "dependencies": {
     "bash-color": "0.0.4",
-    "featurebook-api": "1.0.0-alpha.2",
+    "featurebook-api": "1.0.0-alpha.4",
     "fs-extra": "0.30.0",
-    "lodash": "4.16.1",
+    "lodash": "4.17.4",
     "pdfkit": "0.8.0"
   },
   "devDependencies": {
     "chai": "3.5.0",
-    "codeclimate-test-reporter": "0.3.3",
+    "codeclimate-test-reporter": "0.4.1",
     "istanbul": "0.4.5",
-    "mocha": "3.0.2"
+    "mocha": "3.2.0"
   }
 }
